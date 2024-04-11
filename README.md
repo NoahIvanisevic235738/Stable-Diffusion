@@ -63,24 +63,5 @@ Knights in blue, black and white with an elaborate helmet on their head.</p>
 Knights in green, black and white with an elaborate helmet on their head.</p>
 <p><img src="./generated artworks/dreambooth/Knights in red, black and white with an elaborate helmet on their head.png" alt="Knights in red, black and white with an elaborate helmet on their head" style="width:150px;height:150px;"/>
 Knights in red, black and white with an elaborate helmet on their head.</p>
-
-
-<script type="module" src="https://s.brightspace.com/lib/bsi/20.24.3-265/unbundled/mathjax.js"></script><script type="text/javascript">document.addEventListener('DOMContentLoaded', function() {
-					if (document.querySelector('math') || /\$\$|\\\(|\\\[|\\begin{|\\ref{|\\eqref{/.test(document.body.innerHTML)) {
-						document.querySelectorAll('mspace[linebreak="newline"]').forEach(elm => {
-							elm.setAttribute('style', 'display: block; height: 0.5rem;');
-						});
-
-						window.D2L.MathJax.loadMathJax({
-							'outputScale': 1.5,
-							'renderLatex': true
-						});
-					}
-				});</script><script type="module" src="https://s.brightspace.com/lib/bsi/20.24.3-265/unbundled/prism.js"></script><script type="text/javascript">document.addEventListener('DOMContentLoaded', function() {
-					document.querySelectorAll('.d2l-code').forEach(code => {
-						window.D2L.Prism.formatCodeElement(code);
-					});
-				});
-</script>
 </body>
 </html>
